@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiren1999
 - 👀 I’m interested in React 
-- 🌱 I’m currently learning Node
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send mail hiren.thinktanker@gmail.com
 
